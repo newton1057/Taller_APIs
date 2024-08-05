@@ -1,0 +1,56 @@
+[
+    {
+      "name": "Java",
+      "publish_date": "1995",
+      "description": "Java es un lenguaje de programación de propósito general basado en clases y orientado a objetos. Está diseñado para tener la menor cantidad de dependencias de implementación posible. Java se utiliza para desarrollar aplicaciones de Android, aplicaciones de servidor en la industria de servicios financieros y para crear aplicaciones web."
+    },
+    {
+      "name": "Python",
+      "publish_date": "1991",
+      "description": "Python es un lenguaje de programación de alto nivel e interpretado de propósito general. Hace hincapié en la legibilidad con su notable uso de la indentación significativa. Python se utiliza en el desarrollo web, inteligencia artificial, computación científica y análisis de datos."
+    },
+    {
+      "name": "C++",
+      "publish_date": "1985",
+      "description": "C++ es un lenguaje de programación de propósito general creado por Bjarne Stroustrup como una extensión del lenguaje de programación C. Es prevalente en software de sistemas, desarrollo de juegos, controladores, aplicaciones cliente-servidor y firmware embebido."
+    },
+    {
+      "name": "C#",
+      "publish_date": "2000",
+      "description": "C# es un lenguaje de programación de propósito general y multiparadigma que forma parte de la familia .Net de Microsoft. Se utiliza en muchos productos y servicios de Microsoft, incluido el sistema operativo Windows."
+    },
+    {
+      "name": "Ruby",
+      "publish_date": "1995",
+      "description": "Ruby es un lenguaje de programación de alto nivel e interpretado que enfatiza la simplicidad y la productividad. Se utiliza comúnmente en el desarrollo web y otras tareas de scripting."
+    },
+    {
+      "name": "JavaScript",
+      "publish_date": "1995",
+      "description": "JavaScript es un lenguaje de scripting de alto nivel e interpretado que se ajusta a la especificación ECMAScript. A menudo se utiliza para mejorar las páginas web, para aplicaciones de servidor y servidores, y para desarrollar aplicaciones de escritorio y móviles."
+    },
+    {
+      "name": "PHP",
+      "publish_date": "1995",
+      "description": "PHP es un lenguaje de scripting de propósito general popular que es especialmente adecuado para el desarrollo web. Es ideal para el desarrollo web del lado del servidor, donde PHP generalmente se ejecuta en un servidor web."
+    },
+    {
+      "name": "Objective-C",
+      "publish_date": "1984",
+      "description": "Objective-C es un lenguaje de programación de propósito general y orientado a objetos. Fue el principal lenguaje de programación utilizado por Apple para los sistemas operativos macOS e iOS."
+    },
+    {
+      "name": "Swift",
+      "publish_date": "2014",
+      "description": "Swift es un lenguaje de programación de propósito general, multiparadigma y compilado desarrollado por Apple Inc. Se utiliza para desarrollar aplicaciones en iOS, macOS, watchOS y tvOS."
+    },
+    {
+      "name": "Perl",
+      "publish_date": "1987",
+      "description": "Perl es una familia de dos lenguajes de scripting interpretados de alto nivel y propósito general. Se utiliza ampliamente para proyectos críticos en los sectores público y privado."
+    },
+    {
+      "name": "Rust",
+      "publish_date": "2010"
+    }
+  ]
